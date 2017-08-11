@@ -1,7 +1,3 @@
-LegalShield
-===========
-
-[Instructions for use at LegalShield](INSTALL.md)
 
 Laptop
 ======
